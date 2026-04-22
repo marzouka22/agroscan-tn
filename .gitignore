@@ -1,0 +1,6 @@
+backend/venv311/
+backend/models/best_model.h5
+__pycache__/
+*.pyc
+node_modules/
+.env

@@ -1,0 +1,154 @@
+{
+  "Apple___Apple_scab": {
+    "nom": "Tavelure du pommier",
+    "traitement": "Appliquer un fongicide à base de captane ou myclobutanil. Éliminer les feuilles infectées."
+  },
+  "Apple___Black_rot": {
+    "nom": "Pourriture noire du pommier",
+    "traitement": "Tailler les branches mortes. Appliquer un fongicide à base de cuivre au printemps."
+  },
+  "Apple___Cedar_apple_rust": {
+    "nom": "Rouille du pommier",
+    "traitement": "Appliquer un fongicide à base de myclobutanil dès l'apparition des symptômes."
+  },
+  "Apple___healthy": {
+    "nom": "Pommier sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Blueberry___healthy": {
+    "nom": "Myrtillier sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "nom": "Oïdium du cerisier",
+    "traitement": "Appliquer du soufre mouillable ou un fongicide systémique. Aérer les plantations."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "nom": "Cerisier sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "nom": "Tache grise du maïs",
+    "traitement": "Utiliser des variétés résistantes. Appliquer un fongicide à base de strobilurine."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "nom": "Rouille commune du maïs",
+    "traitement": "Appliquer un fongicide préventif. Utiliser des variétés résistantes."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "nom": "Brûlure foliaire du maïs",
+    "traitement": "Rotation des cultures. Fongicide à base de triazole si l'infection est sévère."
+  },
+  "Corn_(maize)___healthy": {
+    "nom": "Maïs sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Grape___Black_rot": {
+    "nom": "Pourriture noire de la vigne",
+    "traitement": "Éliminer les baies infectées. Appliquer du mancozèbe ou du myclobutanil."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "nom": "Esca de la vigne",
+    "traitement": "Tailler les bois infectés. Protéger les plaies avec une pâte fongicide."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "nom": "Brûlure foliaire de la vigne",
+    "traitement": "Appliquer un fongicide cuivrique. Améliorer la ventilation entre les rangs."
+  },
+  "Grape___healthy": {
+    "nom": "Vigne saine",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "nom": "Huanglongbing (Verdissement des agrumes)",
+    "traitement": "Arracher les arbres infectés. Contrôler le psylle asiatique avec des insecticides."
+  },
+  "Peach___Bacterial_spot": {
+    "nom": "Tache bactérienne du pêcher",
+    "traitement": "Appliquer un bactéricide à base de cuivre. Éviter l'irrigation par aspersion."
+  },
+  "Peach___healthy": {
+    "nom": "Pêcher sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "nom": "Tache bactérienne du poivron",
+    "traitement": "Utiliser des semences certifiées. Appliquer un fongicide cuivrique."
+  },
+  "Pepper,_bell___healthy": {
+    "nom": "Poivron sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Potato___Early_blight": {
+    "nom": "Alternariose de la pomme de terre",
+    "traitement": "Appliquer un fongicide à base de chlorothalonil ou mancozèbe toutes les 7-10 jours."
+  },
+  "Potato___Late_blight": {
+    "nom": "Mildiou de la pomme de terre",
+    "traitement": "Appliquer un fongicide systémique (métalaxyl). Éliminer les plants infectés immédiatement."
+  },
+  "Potato___healthy": {
+    "nom": "Pomme de terre saine",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Raspberry___healthy": {
+    "nom": "Framboisier sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Soybean___healthy": {
+    "nom": "Soja sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Squash___Powdery_mildew": {
+    "nom": "Oïdium de la courge",
+    "traitement": "Appliquer du soufre ou du bicarbonate de potassium. Aérer les cultures."
+  },
+  "Strawberry___Leaf_scorch": {
+    "nom": "Brûlure foliaire du fraisier",
+    "traitement": "Éliminer les feuilles infectées. Appliquer un fongicide à base de captane."
+  },
+  "Strawberry___healthy": {
+    "nom": "Fraisier sain",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  },
+  "Tomato___Bacterial_spot": {
+    "nom": "Tache bactérienne de la tomate",
+    "traitement": "Appliquer un bactéricide cuivrique. Éviter l'arrosage par aspersion."
+  },
+  "Tomato___Early_blight": {
+    "nom": "Alternariose de la tomate",
+    "traitement": "Appliquer du mancozèbe ou chlorothalonil. Supprimer les feuilles basses infectées."
+  },
+  "Tomato___Late_blight": {
+    "nom": "Mildiou de la tomate",
+    "traitement": "Appliquer un fongicide à base de cuivre toutes les 7 jours. Éliminer les plants très atteints."
+  },
+  "Tomato___Leaf_Mold": {
+    "nom": "Moisissure foliaire de la tomate",
+    "traitement": "Améliorer la ventilation. Appliquer un fongicide à base de chlorothalonil."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "nom": "Septoriose de la tomate",
+    "traitement": "Supprimer les feuilles infectées. Appliquer du mancozèbe dès l'apparition des symptômes."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "nom": "Acariens de la tomate",
+    "traitement": "Appliquer un acaricide. Augmenter l'humidité autour des plants."
+  },
+  "Tomato___Target_Spot": {
+    "nom": "Tache cible de la tomate",
+    "traitement": "Appliquer un fongicide à base de difénoconazole. Rotation des cultures recommandée."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "nom": "Virus de l'enroulement jaune de la tomate",
+    "traitement": "Contrôler les aleurodes (insecticide). Arracher et détruire les plants infectés."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "nom": "Virus de la mosaïque de la tomate",
+    "traitement": "Arracher les plants infectés. Désinfecter les outils. Utiliser des semences résistantes."
+  },
+  "Tomato___healthy": {
+    "nom": "Tomate saine",
+    "traitement": "Aucun traitement nécessaire. Continuez l'entretien habituel."
+  }
+}
