@@ -9,9 +9,10 @@ import tensorflow as tf
 MODEL_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'models', 'best_model.h5')
 CLASS_INDICES_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'class_indices.json')
 
-# Lazy loading — modèle chargé uniquement au premier appel
+# Lazy loading
 model = None
 idx_to_class = None
+
 
 def load_model():
     global model, idx_to_class
@@ -21,6 +22,7 @@ def load_model():
         with open(CLASS_INDICES_PATH, 'r') as f:
             idx_to_class = json.load(f)
         print(f"✅ Modèle chargé — {len(idx_to_class)} classes détectées")
+
 
 def predict_disease(image_bytes: bytes) -> str:
     load_model()
