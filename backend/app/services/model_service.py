@@ -6,7 +6,7 @@ import io
 import tensorflow as tf
 
 # Chemins
-MODEL_PATH         = os.path.join(os.path.dirname(__file__), '..', '..', 'models', 'best_model.h5')
+MODEL_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'models', 'best_model.h5')
 CLASS_INDICES_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'class_indices.json')
 
 # Chargement unique au démarrage
