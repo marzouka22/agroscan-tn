@@ -39,7 +39,7 @@ export default function Scanner() {
         ...data,
       });
       localStorage.setItem('agroscan_history', JSON.stringify(history.slice(0, 20)));
-    } catch (err) {
+    } catch {
       setError('Erreur de connexion au serveur. Vérifie que le backend Flask tourne.');
     } finally {
       setLoading(false);
