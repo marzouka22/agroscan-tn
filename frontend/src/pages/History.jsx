@@ -1,12 +1,9 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 export default function History() {
-  const [history, setHistory] = useState([]);
-
-  useEffect(() => {
-    const saved = JSON.parse(localStorage.getItem('agroscan_history') || '[]');
-    setHistory(saved);
-  }, []);
+  const [history, setHistory] = useState(() => {
+    return JSON.parse(localStorage.getItem('agroscan_history') || '[]');
+  });
 
   const handleClear = () => {
     localStorage.removeItem('agroscan_history');
@@ -26,7 +23,6 @@ export default function History() {
             </button>
           )}
         </div>
-
         {history.length === 0 ? (
           <div className="empty-history">
             <span className="empty-icon">🌿</span>
